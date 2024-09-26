@@ -1,4 +1,4 @@
-# Algoritmy 2 
+# Algoritmy 2 - riešenia prikladov na hodine 
 
 ```cpp
 #include <iostream>
