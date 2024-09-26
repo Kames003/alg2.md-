@@ -1,4 +1,4 @@
-# Algoritmy 2 - riešenia prikladov na hodine 
+# Algoritmy 2 - riešenia prikladov na hodine 26.9.2024 
 
 ```cpp
 #include <iostream>
